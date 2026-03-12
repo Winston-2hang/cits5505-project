@@ -11,4 +11,4 @@ This repository is for our team GitHub practice and project work.···
 
 We are practicing GitHub and starting our project.
 
-This line is added by Winston in a branch.
+This line is edited by Winston for conflict practice.
